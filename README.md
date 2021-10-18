@@ -35,14 +35,8 @@ Here are some ideas to get you started:
 1. 🔥 Pushed to skleinjung/skleinjung
 2. 🔥 Pushed to skleinjung/skleinjung
 3. 🔥 Pushed to skleinjung/skleinjung
-4. 🔥 Pushed to skleinjung/common-config
-5. 🔥 Pushed to skleinjung/common-config
-6. 🔥 Pushed to skleinjung/common-config
-7. 🔥 Pushed to skleinjung/common-config
-8. 🔥 Pushed to skleinjung/common-config
-9. 🔥 Pushed to twin-digital/build-container-image
-10. 🔥 Pushed to skleinjung/build-container-image
+4. 🔥 Pushed to skleinjung/skleinjung
+5. 🔥 Pushed to skleinjung/skleinjung
 <!--END_SECTION:activity-->
-
 <!--START_SECTION:my_github-->
 <!--END_SECTION:my_github-->
