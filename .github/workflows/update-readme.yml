@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,3 +18,21 @@ jobs:
         with:
           COMMIT_MSG: Updating README recent activities.
           MAX_LINES: 5
+
+      - name: My GitHub Status
+        uses: yihong0618/github-readme-stats@main
+
+      - name: Set git identity
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "github-actions"
+        shell: bash
+
+      - name: Push README
+        uses: github-actions-x/commit@v2.6
+        with:
+          commit-message: "Refresh README (GITHUB STATUS)"
+          files: README.md
+          rebase: "true"
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
