@@ -17,7 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: Updating README recent activities.
-          MAX_LINES: 5
+          MAX_LINES: 10
 
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@main

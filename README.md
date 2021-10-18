@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Sean Kleinjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=skleinjung&show_icons=true&theme=dark&count_private=true)](https://github.com/skleinjung)
 
-### Recent Activities
+## Recent Activity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to skleinjung/skleinjung
 2. 🔥 Pushed to skleinjung/skleinjung
@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 4. 🔥 Pushed to skleinjung/skleinjung
 5. 🔥 Pushed to skleinjung/skleinjung
 <!--END_SECTION:activity-->
-<!--START_SECTION:my_github-->
-<!--END_SECTION:my_github-->
