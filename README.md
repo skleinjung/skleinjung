@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Sean Kleinjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=skleinjung&show_icons=true&theme=dark&count_private=true)](https://github.com/skleinjung)
+
+### Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
