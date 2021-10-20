@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/skleinjung-forks/eslint-config/pull/11) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-2. ❌ Closed PR [#6](https://github.com/skleinjung-forks/eslint-config/pull/6) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-3. ❌ Closed PR [#8](https://github.com/skleinjung-forks/eslint-config/pull/8) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-4. 💪 Opened PR [#10](https://github.com/skleinjung-forks/eslint-config/pull/10) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-5. 🔥 Pushed to skleinjung-forks/eslint-config
-6. 🎉 Merged PR [#9](https://github.com/skleinjung-forks/eslint-config/pull/9) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-7. 🔥 Pushed to skleinjung-forks/eslint-config
-8. 💪 Opened PR [#9](https://github.com/skleinjung-forks/eslint-config/pull/9) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
-9. 💪 Opened PR [#8](https://github.com/skleinjung-forks/eslint-config/pull/8) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+1. 🔥 Pushed to twin-digital/temp-eslint-config
+2. 💪 Opened PR [#2](https://github.com/twin-digital/temp-eslint-config/pull/2) in [twin-digital/temp-eslint-config](https://github.com/twin-digital/temp-eslint-config)
+3. 💪 Opened PR [#1](https://github.com/twin-digital/temp-eslint-config/pull/1) in [twin-digital/temp-eslint-config](https://github.com/twin-digital/temp-eslint-config)
+4. 🔥 Pushed to twin-digital/temp-eslint-config
+5. 💪 Opened PR [#15](https://github.com/skleinjung-forks/eslint-config/pull/15) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+6. 🔥 Pushed to skleinjung-forks/eslint-config
+7. 💪 Opened PR [#14](https://github.com/skleinjung-forks/eslint-config/pull/14) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+8. 🔥 Pushed to skleinjung-forks/eslint-config
+9. 💪 Opened PR [#13](https://github.com/skleinjung-forks/eslint-config/pull/13) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
 10. 🔥 Pushed to skleinjung-forks/eslint-config
 <!--END_SECTION:activity-->
