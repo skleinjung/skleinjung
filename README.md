@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to twin-digital/eslint-config
-2. 🔥 Pushed to twin-digital/devcontainer-nodejs
-3. ❗️ Opened issue [#1](https://github.com/twin-digital/common-config/issues/1) in [twin-digital/common-config](https://github.com/twin-digital/common-config)
-4. 🔥 Pushed to twin-digital/devcontainer-nodejs
-5. 🔥 Pushed to twin-digital/devcontainer-base
-6. 🔥 Pushed to twin-digital/devcontainer-nodejs
-7. 🔥 Pushed to twin-digital/common-config
-8. 🔥 Pushed to twin-digital/common-config
-9. 🔥 Pushed to twin-digital/common-config
-10. 🔥 Pushed to twin-digital/action-create-release
+1. 💪 Opened PR [#11](https://github.com/skleinjung-forks/eslint-config/pull/11) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+2. ❌ Closed PR [#6](https://github.com/skleinjung-forks/eslint-config/pull/6) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+3. ❌ Closed PR [#8](https://github.com/skleinjung-forks/eslint-config/pull/8) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+4. 💪 Opened PR [#10](https://github.com/skleinjung-forks/eslint-config/pull/10) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+5. 🔥 Pushed to skleinjung-forks/eslint-config
+6. 🎉 Merged PR [#9](https://github.com/skleinjung-forks/eslint-config/pull/9) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+7. 🔥 Pushed to skleinjung-forks/eslint-config
+8. 💪 Opened PR [#9](https://github.com/skleinjung-forks/eslint-config/pull/9) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+9. 💪 Opened PR [#8](https://github.com/skleinjung-forks/eslint-config/pull/8) in [skleinjung-forks/eslint-config](https://github.com/skleinjung-forks/eslint-config)
+10. 🔥 Pushed to skleinjung-forks/eslint-config
 <!--END_SECTION:activity-->
