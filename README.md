@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/twin-digital/eslint-config/pull/9) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-2. 💪 Opened PR [#8](https://github.com/twin-digital/eslint-config/pull/8) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-3. 🔥 Pushed to twin-digital/eslint-config
-4. 💪 Opened PR [#7](https://github.com/twin-digital/eslint-config/pull/7) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-5. 🔥 Pushed to twin-digital/devcontainer-nodejs
-6. 🔥 Pushed to twin-digital/temp-eslint-config
-7. 💪 Opened PR [#6](https://github.com/twin-digital/eslint-config/pull/6) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-8. 🔥 Pushed to twin-digital/temp-eslint-config
-9. 💪 Opened PR [#12](https://github.com/twin-digital/temp-eslint-config/pull/12) in [twin-digital/temp-eslint-config](https://github.com/twin-digital/temp-eslint-config)
-10. 💪 Opened PR [#11](https://github.com/twin-digital/temp-eslint-config/pull/11) in [twin-digital/temp-eslint-config](https://github.com/twin-digital/temp-eslint-config)
+1. 💪 Opened PR [#10](https://github.com/twin-digital/eslint-config/pull/10) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+2. 💪 Opened PR [#9](https://github.com/twin-digital/eslint-config/pull/9) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+3. 💪 Opened PR [#8](https://github.com/twin-digital/eslint-config/pull/8) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+4. 🔥 Pushed to twin-digital/eslint-config
+5. 💪 Opened PR [#7](https://github.com/twin-digital/eslint-config/pull/7) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+6. 🔥 Pushed to twin-digital/devcontainer-nodejs
+7. 🔥 Pushed to twin-digital/temp-eslint-config
+8. 💪 Opened PR [#6](https://github.com/twin-digital/eslint-config/pull/6) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+9. 🔥 Pushed to twin-digital/temp-eslint-config
+10. 💪 Opened PR [#12](https://github.com/twin-digital/temp-eslint-config/pull/12) in [twin-digital/temp-eslint-config](https://github.com/twin-digital/temp-eslint-config)
 <!--END_SECTION:activity-->
