@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to twin-digital/eslint-config
-2. 💪 Opened PR [#17](https://github.com/twin-digital/eslint-config/pull/17) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-3. 🔥 Pushed to twin-digital/.github
-4. 💪 Opened PR [#15](https://github.com/twin-digital/eslint-config/pull/15) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-5. 💪 Opened PR [#14](https://github.com/twin-digital/eslint-config/pull/14) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-6. 🔥 Pushed to twin-digital/eslint-config
-7. 🎉 Merged PR [#11](https://github.com/twin-digital/eslint-config/pull/11) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-8. 🔥 Pushed to twin-digital/eslint-config
-9. 🔥 Pushed to twin-digital/eslint-config
-10. 🔥 Pushed to twin-digital/.github
+1. 🔥 Pushed to twin-digital/shine
+2. 💪 Opened PR [#16](https://github.com/twin-digital/shine/pull/16) in [twin-digital/shine](https://github.com/twin-digital/shine)
+3. 🗣 Commented on [#13](https://github.com/twin-digital/shine/issues/13) in [twin-digital/shine](https://github.com/twin-digital/shine)
+4. ❌ Closed PR [#13](https://github.com/twin-digital/shine/pull/13) in [twin-digital/shine](https://github.com/twin-digital/shine)
+5. 🔥 Pushed to twin-digital/shine
+6. 🔥 Pushed to twin-digital/shine
+7. 🔥 Pushed to twin-digital/shine
+8. 🔥 Pushed to twin-digital/shine
+9. 🔥 Pushed to twin-digital/shine
+10. 💪 Opened PR [#12](https://github.com/twin-digital/shine/pull/12) in [twin-digital/shine](https://github.com/twin-digital/shine)
 <!--END_SECTION:activity-->
