@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/twin-digital/test-shine/issues/6) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-2. ❗️ Opened issue [#5](https://github.com/twin-digital/test-shine/issues/5) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-3. ❗️ Opened issue [#4](https://github.com/twin-digital/test-shine/issues/4) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-4. ❗️ Opened issue [#3](https://github.com/twin-digital/test-shine/issues/3) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-5. ❗️ Opened issue [#2](https://github.com/twin-digital/test-shine/issues/2) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-6. ❗️ Opened issue [#1](https://github.com/twin-digital/test-shine/issues/1) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
-7. 💪 Opened PR [#19](https://github.com/twin-digital/eslint-config/pull/19) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-8. 💪 Opened PR [#18](https://github.com/twin-digital/eslint-config/pull/18) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-9. ❗️ Opened issue [#17](https://github.com/twin-digital/shine/issues/17) in [twin-digital/shine](https://github.com/twin-digital/shine)
+1. ❗️ Closed issue [#17](https://github.com/twin-digital/spawn-point/issues/17) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+2. 💪 Opened PR [#25](https://github.com/twin-digital/spawn-point/pull/25) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+3. ❗️ Opened issue [#24](https://github.com/twin-digital/spawn-point/issues/24) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+4. 🔥 Pushed to twin-digital/spawn-point
+5. 💪 Opened PR [#23](https://github.com/twin-digital/spawn-point/pull/23) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+6. ❗️ Opened issue [#22](https://github.com/twin-digital/shine/issues/22) in [twin-digital/shine](https://github.com/twin-digital/shine)
+7. ❗️ Opened issue [#21](https://github.com/twin-digital/shine/issues/21) in [twin-digital/shine](https://github.com/twin-digital/shine)
+8. 💪 Opened PR [#20](https://github.com/twin-digital/shine/pull/20) in [twin-digital/shine](https://github.com/twin-digital/shine)
+9. 🔥 Pushed to twin-digital/.github
 10. 🔥 Pushed to twin-digital/shine
 <!--END_SECTION:activity-->
