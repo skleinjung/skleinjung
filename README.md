@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/twin-digital/eslint-config/pull/19) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-2. 💪 Opened PR [#18](https://github.com/twin-digital/eslint-config/pull/18) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
-3. ❗️ Opened issue [#17](https://github.com/twin-digital/shine/issues/17) in [twin-digital/shine](https://github.com/twin-digital/shine)
-4. 🔥 Pushed to twin-digital/shine
-5. 🎉 Merged PR [#14](https://github.com/twin-digital/shine/pull/14) in [twin-digital/shine](https://github.com/twin-digital/shine)
-6. 🔥 Pushed to twin-digital/shine
-7. 💪 Opened PR [#16](https://github.com/twin-digital/shine/pull/16) in [twin-digital/shine](https://github.com/twin-digital/shine)
-8. 🗣 Commented on [#13](https://github.com/twin-digital/shine/issues/13) in [twin-digital/shine](https://github.com/twin-digital/shine)
-9. ❌ Closed PR [#13](https://github.com/twin-digital/shine/pull/13) in [twin-digital/shine](https://github.com/twin-digital/shine)
+1. ❗️ Opened issue [#6](https://github.com/twin-digital/test-shine/issues/6) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+2. ❗️ Opened issue [#5](https://github.com/twin-digital/test-shine/issues/5) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+3. ❗️ Opened issue [#4](https://github.com/twin-digital/test-shine/issues/4) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+4. ❗️ Opened issue [#3](https://github.com/twin-digital/test-shine/issues/3) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+5. ❗️ Opened issue [#2](https://github.com/twin-digital/test-shine/issues/2) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+6. ❗️ Opened issue [#1](https://github.com/twin-digital/test-shine/issues/1) in [twin-digital/test-shine](https://github.com/twin-digital/test-shine)
+7. 💪 Opened PR [#19](https://github.com/twin-digital/eslint-config/pull/19) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+8. 💪 Opened PR [#18](https://github.com/twin-digital/eslint-config/pull/18) in [twin-digital/eslint-config](https://github.com/twin-digital/eslint-config)
+9. ❗️ Opened issue [#17](https://github.com/twin-digital/shine/issues/17) in [twin-digital/shine](https://github.com/twin-digital/shine)
 10. 🔥 Pushed to twin-digital/shine
 <!--END_SECTION:activity-->
