@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/twin-digital/spawn-point/issues/17) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-2. 💪 Opened PR [#25](https://github.com/twin-digital/spawn-point/pull/25) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-3. ❗️ Opened issue [#24](https://github.com/twin-digital/spawn-point/issues/24) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-4. 🔥 Pushed to twin-digital/spawn-point
-5. 💪 Opened PR [#23](https://github.com/twin-digital/spawn-point/pull/23) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-6. ❗️ Opened issue [#22](https://github.com/twin-digital/shine/issues/22) in [twin-digital/shine](https://github.com/twin-digital/shine)
-7. ❗️ Opened issue [#21](https://github.com/twin-digital/shine/issues/21) in [twin-digital/shine](https://github.com/twin-digital/shine)
-8. 💪 Opened PR [#20](https://github.com/twin-digital/shine/pull/20) in [twin-digital/shine](https://github.com/twin-digital/shine)
-9. 🔥 Pushed to twin-digital/.github
-10. 🔥 Pushed to twin-digital/shine
+1. 💪 Opened PR [#32](https://github.com/twin-digital/spawn-point/pull/32) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+2. ❌ Closed PR [#29](https://github.com/twin-digital/spawn-point/pull/29) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+3. ❌ Closed PR [#31](https://github.com/twin-digital/spawn-point/pull/31) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+4. ❗️ Opened issue [#30](https://github.com/twin-digital/spawn-point/issues/30) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+5. 💪 Opened PR [#26](https://github.com/twin-digital/spawn-point/pull/26) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+6. ❗️ Opened issue [#2](https://github.com/twin-digital/test-sp/issues/2) in [twin-digital/test-sp](https://github.com/twin-digital/test-sp)
+7. ❗️ Closed issue [#17](https://github.com/twin-digital/spawn-point/issues/17) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+8. 💪 Opened PR [#25](https://github.com/twin-digital/spawn-point/pull/25) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+9. ❗️ Opened issue [#24](https://github.com/twin-digital/spawn-point/issues/24) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+10. 🔥 Pushed to twin-digital/spawn-point
 <!--END_SECTION:activity-->
