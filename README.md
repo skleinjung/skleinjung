@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/twin-digital/test-sp/pull/3) in [twin-digital/test-sp](https://github.com/twin-digital/test-sp)
-2. 🔥 Pushed to twin-digital/test-sp
-3. 🔥 Pushed to twin-digital/test-sp
+1. 💪 Opened PR [#47](https://github.com/twin-digital/spawn-point/pull/47) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+2. ❗️ Opened issue [#46](https://github.com/twin-digital/spawn-point/issues/46) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+3. 💪 Opened PR [#3](https://github.com/twin-digital/test-sp/pull/3) in [twin-digital/test-sp](https://github.com/twin-digital/test-sp)
 4. 🔥 Pushed to twin-digital/test-sp
 5. 🔥 Pushed to twin-digital/test-sp
 6. 🔥 Pushed to twin-digital/test-sp
 7. 🔥 Pushed to twin-digital/test-sp
-8. 💪 Opened PR [#32](https://github.com/twin-digital/spawn-point/pull/32) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-9. ❌ Closed PR [#29](https://github.com/twin-digital/spawn-point/pull/29) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-10. ❌ Closed PR [#31](https://github.com/twin-digital/spawn-point/pull/31) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+8. 🔥 Pushed to twin-digital/test-sp
+9. 🔥 Pushed to twin-digital/test-sp
+10. 💪 Opened PR [#32](https://github.com/twin-digital/spawn-point/pull/32) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
 <!--END_SECTION:activity-->
