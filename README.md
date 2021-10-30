@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to skleinjung/shift
-2. ❗️ Opened issue [#1](https://github.com/skleinjung/shift/issues/1) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. 🔥 Pushed to skleinjung/shift
 3. 🔥 Pushed to skleinjung/shift
-4. 🔥 Pushed to twin-digital/spawn-point
-5. 🎉 Merged PR [#49](https://github.com/twin-digital/spawn-point/pull/49) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-6. ❌ Closed PR [#39](https://github.com/twin-digital/spawn-point/pull/39) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-7. ❌ Closed PR [#37](https://github.com/twin-digital/spawn-point/pull/37) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-8. 💪 Opened PR [#49](https://github.com/twin-digital/spawn-point/pull/49) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
-9. 🔥 Pushed to twin-digital/spawn-point
-10. 💪 Opened PR [#48](https://github.com/twin-digital/spawn-point/pull/48) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+4. 🔥 Pushed to skleinjung/shift
+5. ❗️ Opened issue [#1](https://github.com/skleinjung/shift/issues/1) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. 🔥 Pushed to skleinjung/shift
+7. 🔥 Pushed to twin-digital/spawn-point
+8. 🎉 Merged PR [#49](https://github.com/twin-digital/spawn-point/pull/49) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+9. ❌ Closed PR [#39](https://github.com/twin-digital/spawn-point/pull/39) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
+10. ❌ Closed PR [#37](https://github.com/twin-digital/spawn-point/pull/37) in [twin-digital/spawn-point](https://github.com/twin-digital/spawn-point)
 <!--END_SECTION:activity-->
