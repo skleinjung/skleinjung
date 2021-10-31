@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to skleinjung/shift
-2. 🔥 Pushed to skleinjung/shift
-3. 🔥 Pushed to skleinjung/shift
-4. 🔥 Pushed to skleinjung/shift
-5. 🗣 Commented on [#1](https://github.com/skleinjung/shift/issues/1) in [skleinjung/shift](https://github.com/skleinjung/shift)
-6. 🗣 Commented on [#1](https://github.com/skleinjung/shift/issues/1) in [skleinjung/shift](https://github.com/skleinjung/shift)
-7. 🔥 Pushed to skleinjung/shift
-8. 🔥 Pushed to skleinjung/shift
-9. 🔥 Pushed to skleinjung/shift
-10. 🔥 Pushed to skleinjung/shift
+1. ❗️ Opened issue [#14](https://github.com/skleinjung/shift/issues/14) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. ❗️ Opened issue [#13](https://github.com/skleinjung/shift/issues/13) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. ❗️ Opened issue [#12](https://github.com/skleinjung/shift/issues/12) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. ❗️ Opened issue [#11](https://github.com/skleinjung/shift/issues/11) in [skleinjung/shift](https://github.com/skleinjung/shift)
+5. ❗️ Opened issue [#10](https://github.com/skleinjung/shift/issues/10) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. ❗️ Opened issue [#9](https://github.com/skleinjung/shift/issues/9) in [skleinjung/shift](https://github.com/skleinjung/shift)
+7. ❗️ Opened issue [#8](https://github.com/skleinjung/shift/issues/8) in [skleinjung/shift](https://github.com/skleinjung/shift)
+8. ❗️ Opened issue [#7](https://github.com/skleinjung/shift/issues/7) in [skleinjung/shift](https://github.com/skleinjung/shift)
+9. ❗️ Opened issue [#6](https://github.com/skleinjung/shift/issues/6) in [skleinjung/shift](https://github.com/skleinjung/shift)
+10. ❗️ Opened issue [#5](https://github.com/skleinjung/shift/issues/5) in [skleinjung/shift](https://github.com/skleinjung/shift)
 <!--END_SECTION:activity-->
