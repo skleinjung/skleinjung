@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to skleinjung/shift
-2. 🎉 Merged PR [#22](https://github.com/skleinjung/shift/pull/22) in [skleinjung/shift](https://github.com/skleinjung/shift)
-3. ❗️ Closed issue [#8](https://github.com/skleinjung/shift/issues/8) in [skleinjung/shift](https://github.com/skleinjung/shift)
-4. 💪 Opened PR [#22](https://github.com/skleinjung/shift/pull/22) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. 💪 Opened PR [#26](https://github.com/skleinjung/shift/pull/26) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. 💪 Opened PR [#25](https://github.com/skleinjung/shift/pull/25) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. 💪 Opened PR [#24](https://github.com/skleinjung/shift/pull/24) in [skleinjung/shift](https://github.com/skleinjung/shift)
 5. 🔥 Pushed to skleinjung/shift
-6. 🔥 Pushed to twin-digital/eslint-config
-7. 🔥 Pushed to twin-digital/eslint-config
-8. ❗️ Opened issue [#21](https://github.com/skleinjung/shift/issues/21) in [skleinjung/shift](https://github.com/skleinjung/shift)
-9. ❗️ Opened issue [#20](https://github.com/skleinjung/shift/issues/20) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. ❗️ Opened issue [#19](https://github.com/skleinjung/shift/issues/19) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. 🔥 Pushed to skleinjung/shift
+7. 🔥 Pushed to skleinjung/shift
+8. 💪 Opened PR [#23](https://github.com/skleinjung/shift/pull/23) in [skleinjung/shift](https://github.com/skleinjung/shift)
+9. 🔥 Pushed to skleinjung/shift
+10. 🔥 Pushed to skleinjung/shift
 <!--END_SECTION:activity-->
