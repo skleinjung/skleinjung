@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/skleinjung/shift/issues/9) in [skleinjung/shift](https://github.com/skleinjung/shift)
+1. 🔥 Pushed to skleinjung/shift
 2. 🔥 Pushed to skleinjung/shift
-3. 🔥 Pushed to skleinjung/shift
-4. 🔥 Pushed to skleinjung/shift
+3. 💪 Opened PR [#30](https://github.com/skleinjung/shift/pull/30) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. ❗️ Closed issue [#9](https://github.com/skleinjung/shift/issues/9) in [skleinjung/shift](https://github.com/skleinjung/shift)
 5. 🔥 Pushed to skleinjung/shift
 6. 🔥 Pushed to skleinjung/shift
 7. 🔥 Pushed to skleinjung/shift
