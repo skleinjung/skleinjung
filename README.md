@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to skleinjung/shift
 2. 🔥 Pushed to skleinjung/shift
-3. 💪 Opened PR [#30](https://github.com/skleinjung/shift/pull/30) in [skleinjung/shift](https://github.com/skleinjung/shift)
-4. ❗️ Closed issue [#9](https://github.com/skleinjung/shift/issues/9) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. 🔥 Pushed to skleinjung/shift
+4. 💪 Opened PR [#31](https://github.com/skleinjung/shift/pull/31) in [skleinjung/shift](https://github.com/skleinjung/shift)
 5. 🔥 Pushed to skleinjung/shift
 6. 🔥 Pushed to skleinjung/shift
-7. 🔥 Pushed to skleinjung/shift
-8. 🔥 Pushed to skleinjung/shift
+7. 💪 Opened PR [#30](https://github.com/skleinjung/shift/pull/30) in [skleinjung/shift](https://github.com/skleinjung/shift)
+8. ❗️ Closed issue [#9](https://github.com/skleinjung/shift/issues/9) in [skleinjung/shift](https://github.com/skleinjung/shift)
 9. 🔥 Pushed to skleinjung/shift
 10. 🔥 Pushed to skleinjung/shift
 <!--END_SECTION:activity-->
