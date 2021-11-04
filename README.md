@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to skleinjung/shift
-2. ❗️ Opened issue [#38](https://github.com/skleinjung/shift/issues/38) in [skleinjung/shift](https://github.com/skleinjung/shift)
+1. ❗️ Closed issue [#35](https://github.com/skleinjung/shift/issues/35) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. 💪 Opened PR [#39](https://github.com/skleinjung/shift/pull/39) in [skleinjung/shift](https://github.com/skleinjung/shift)
 3. 🔥 Pushed to skleinjung/shift
-4. 🔥 Pushed to skleinjung/shift
-5. 💪 Opened PR [#37](https://github.com/skleinjung/shift/pull/37) in [skleinjung/shift](https://github.com/skleinjung/shift)
-6. ❗️ Opened issue [#36](https://github.com/skleinjung/shift/issues/36) in [skleinjung/shift](https://github.com/skleinjung/shift)
-7. ❗️ Closed issue [#21](https://github.com/skleinjung/shift/issues/21) in [skleinjung/shift](https://github.com/skleinjung/shift)
-8. ❗️ Opened issue [#35](https://github.com/skleinjung/shift/issues/35) in [skleinjung/shift](https://github.com/skleinjung/shift)
-9. 💪 Opened PR [#34](https://github.com/skleinjung/shift/pull/34) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. 💪 Opened PR [#33](https://github.com/skleinjung/shift/pull/33) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. ❗️ Opened issue [#38](https://github.com/skleinjung/shift/issues/38) in [skleinjung/shift](https://github.com/skleinjung/shift)
+5. 🔥 Pushed to skleinjung/shift
+6. 🔥 Pushed to skleinjung/shift
+7. 💪 Opened PR [#37](https://github.com/skleinjung/shift/pull/37) in [skleinjung/shift](https://github.com/skleinjung/shift)
+8. ❗️ Opened issue [#36](https://github.com/skleinjung/shift/issues/36) in [skleinjung/shift](https://github.com/skleinjung/shift)
+9. ❗️ Closed issue [#21](https://github.com/skleinjung/shift/issues/21) in [skleinjung/shift](https://github.com/skleinjung/shift)
+10. ❗️ Opened issue [#35](https://github.com/skleinjung/shift/issues/35) in [skleinjung/shift](https://github.com/skleinjung/shift)
 <!--END_SECTION:activity-->
