@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/skleinjung/shift/pull/98) in [skleinjung/shift](https://github.com/skleinjung/shift)
-2. 🔥 Pushed to skleinjung/shift
-3. 🎉 Merged PR [#97](https://github.com/skleinjung/shift/pull/97) in [skleinjung/shift](https://github.com/skleinjung/shift)
-4. 🔥 Pushed to skleinjung/shift
-5. 💪 Opened PR [#97](https://github.com/skleinjung/shift/pull/97) in [skleinjung/shift](https://github.com/skleinjung/shift)
-6. 🔥 Pushed to skleinjung/shift
+1. 💪 Opened PR [#99](https://github.com/skleinjung/shift/pull/99) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. 💪 Opened PR [#98](https://github.com/skleinjung/shift/pull/98) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. 🔥 Pushed to skleinjung/shift
+4. 🎉 Merged PR [#97](https://github.com/skleinjung/shift/pull/97) in [skleinjung/shift](https://github.com/skleinjung/shift)
+5. 🔥 Pushed to skleinjung/shift
+6. 💪 Opened PR [#97](https://github.com/skleinjung/shift/pull/97) in [skleinjung/shift](https://github.com/skleinjung/shift)
 7. 🔥 Pushed to skleinjung/shift
 8. 🔥 Pushed to skleinjung/shift
 9. 🔥 Pushed to skleinjung/shift
