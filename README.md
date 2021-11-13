@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#67](https://github.com/skleinjung/shift/issues/67) in [skleinjung/shift](https://github.com/skleinjung/shift)
-2. 🗣 Commented on [#67](https://github.com/skleinjung/shift/issues/67) in [skleinjung/shift](https://github.com/skleinjung/shift)
-3. 💪 Opened PR [#103](https://github.com/skleinjung/shift/pull/103) in [skleinjung/shift](https://github.com/skleinjung/shift)
-4. ❗️ Opened issue [#102](https://github.com/skleinjung/shift/issues/102) in [skleinjung/shift](https://github.com/skleinjung/shift)
-5. 🗣 Commented on [#38](https://github.com/skleinjung/shift/issues/38) in [skleinjung/shift](https://github.com/skleinjung/shift)
-6. ❗️ Closed issue [#76](https://github.com/skleinjung/shift/issues/76) in [skleinjung/shift](https://github.com/skleinjung/shift)
-7. 💪 Opened PR [#101](https://github.com/skleinjung/shift/pull/101) in [skleinjung/shift](https://github.com/skleinjung/shift)
-8. ❗️ Closed issue [#88](https://github.com/skleinjung/shift/issues/88) in [skleinjung/shift](https://github.com/skleinjung/shift)
-9. ❗️ Closed issue [#70](https://github.com/skleinjung/shift/issues/70) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. ❗️ Closed issue [#69](https://github.com/skleinjung/shift/issues/69) in [skleinjung/shift](https://github.com/skleinjung/shift)
+1. ❗️ Opened issue [#106](https://github.com/skleinjung/shift/issues/106) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. ❗️ Opened issue [#105](https://github.com/skleinjung/shift/issues/105) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. 💪 Opened PR [#104](https://github.com/skleinjung/shift/pull/104) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. ❗️ Closed issue [#67](https://github.com/skleinjung/shift/issues/67) in [skleinjung/shift](https://github.com/skleinjung/shift)
+5. 🗣 Commented on [#67](https://github.com/skleinjung/shift/issues/67) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. 💪 Opened PR [#103](https://github.com/skleinjung/shift/pull/103) in [skleinjung/shift](https://github.com/skleinjung/shift)
+7. ❗️ Opened issue [#102](https://github.com/skleinjung/shift/issues/102) in [skleinjung/shift](https://github.com/skleinjung/shift)
+8. 🗣 Commented on [#38](https://github.com/skleinjung/shift/issues/38) in [skleinjung/shift](https://github.com/skleinjung/shift)
+9. ❗️ Closed issue [#76](https://github.com/skleinjung/shift/issues/76) in [skleinjung/shift](https://github.com/skleinjung/shift)
+10. 💪 Opened PR [#101](https://github.com/skleinjung/shift/pull/101) in [skleinjung/shift](https://github.com/skleinjung/shift)
 <!--END_SECTION:activity-->
