@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#146](https://github.com/skleinjung/shift/issues/146) in [skleinjung/shift](https://github.com/skleinjung/shift)
-2. ❗️ Opened issue [#145](https://github.com/skleinjung/shift/issues/145) in [skleinjung/shift](https://github.com/skleinjung/shift)
-3. ❗️ Opened issue [#144](https://github.com/skleinjung/shift/issues/144) in [skleinjung/shift](https://github.com/skleinjung/shift)
-4. 🔥 Pushed to skleinjung/shift
-5. 🔥 Pushed to skleinjung/shift
-6. 🔥 Pushed to skleinjung/shift
-7. ❗️ Closed issue [#71](https://github.com/skleinjung/shift/issues/71) in [skleinjung/shift](https://github.com/skleinjung/shift)
-8. 💪 Opened PR [#143](https://github.com/skleinjung/shift/pull/143) in [skleinjung/shift](https://github.com/skleinjung/shift)
-9. ❗️ Closed issue [#130](https://github.com/skleinjung/shift/issues/130) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. ❗️ Closed issue [#131](https://github.com/skleinjung/shift/issues/131) in [skleinjung/shift](https://github.com/skleinjung/shift)
+1. ❗️ Closed issue [#114](https://github.com/skleinjung/shift/issues/114) in [skleinjung/shift](https://github.com/skleinjung/shift)
+2. 💪 Opened PR [#148](https://github.com/skleinjung/shift/pull/148) in [skleinjung/shift](https://github.com/skleinjung/shift)
+3. ❗️ Closed issue [#68](https://github.com/skleinjung/shift/issues/68) in [skleinjung/shift](https://github.com/skleinjung/shift)
+4. 💪 Opened PR [#147](https://github.com/skleinjung/shift/pull/147) in [skleinjung/shift](https://github.com/skleinjung/shift)
+5. ❗️ Opened issue [#146](https://github.com/skleinjung/shift/issues/146) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. ❗️ Opened issue [#145](https://github.com/skleinjung/shift/issues/145) in [skleinjung/shift](https://github.com/skleinjung/shift)
+7. ❗️ Opened issue [#144](https://github.com/skleinjung/shift/issues/144) in [skleinjung/shift](https://github.com/skleinjung/shift)
+8. 🔥 Pushed to skleinjung/shift
+9. 🔥 Pushed to skleinjung/shift
+10. 🔥 Pushed to skleinjung/shift
 <!--END_SECTION:activity-->
