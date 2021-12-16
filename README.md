@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to thrashplay/slash-racer
-2. 🔥 Pushed to thrashplay/slash-racer
+2. 💪 Opened PR [#1](https://github.com/thrashplay/slash-racer/pull/1) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
 3. 🔥 Pushed to thrashplay/slash-racer
 4. 🔥 Pushed to thrashplay/slash-racer
 5. 🔥 Pushed to thrashplay/slash-racer
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 7. 🔥 Pushed to thrashplay/slash-racer
 8. 🔥 Pushed to thrashplay/slash-racer
 9. 🔥 Pushed to thrashplay/slash-racer
-10. 🔥 Pushed to skleinjung/shift
+10. 🔥 Pushed to thrashplay/slash-racer
 <!--END_SECTION:activity-->
