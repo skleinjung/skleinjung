@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 1. 🔥 Pushed to thrashplay/slash-racer
 2. 🔥 Pushed to thrashplay/slash-racer
 3. 🔥 Pushed to thrashplay/slash-racer
-4. 🔥 Pushed to skleinjung/shift
-5. 🔥 Pushed to skleinjung/shift
-6. 🔥 Pushed to skleinjung/shift
+4. 🔥 Pushed to thrashplay/slash-racer
+5. 🔥 Pushed to thrashplay/slash-racer
+6. 🔥 Pushed to thrashplay/slash-racer
 7. 🔥 Pushed to skleinjung/shift
 8. 🔥 Pushed to skleinjung/shift
-9. 💪 Opened PR [#185](https://github.com/skleinjung/shift/pull/185) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. 💪 Opened PR [#184](https://github.com/skleinjung/shift/pull/184) in [skleinjung/shift](https://github.com/skleinjung/shift)
+9. 🔥 Pushed to skleinjung/shift
+10. 🔥 Pushed to skleinjung/shift
 <!--END_SECTION:activity-->
