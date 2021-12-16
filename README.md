@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 4. 🔥 Pushed to thrashplay/slash-racer
 5. 🔥 Pushed to thrashplay/slash-racer
 6. 🔥 Pushed to thrashplay/slash-racer
-7. 🔥 Pushed to skleinjung/shift
-8. 🔥 Pushed to skleinjung/shift
-9. 🔥 Pushed to skleinjung/shift
+7. 🔥 Pushed to thrashplay/slash-racer
+8. 🔥 Pushed to thrashplay/slash-racer
+9. 🔥 Pushed to thrashplay/slash-racer
 10. 🔥 Pushed to skleinjung/shift
 <!--END_SECTION:activity-->
