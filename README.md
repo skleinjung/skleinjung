@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to skleinjung/shift
-2. 🔥 Pushed to skleinjung/shift
-3. 🔥 Pushed to skleinjung/shift
+1. 🔥 Pushed to thrashplay/slash-racer
+2. 🔥 Pushed to thrashplay/slash-racer
+3. 🔥 Pushed to thrashplay/slash-racer
 4. 🔥 Pushed to skleinjung/shift
 5. 🔥 Pushed to skleinjung/shift
-6. 💪 Opened PR [#185](https://github.com/skleinjung/shift/pull/185) in [skleinjung/shift](https://github.com/skleinjung/shift)
-7. 💪 Opened PR [#184](https://github.com/skleinjung/shift/pull/184) in [skleinjung/shift](https://github.com/skleinjung/shift)
-8. ❗️ Closed issue [#56](https://github.com/skleinjung/shift/issues/56) in [skleinjung/shift](https://github.com/skleinjung/shift)
-9. 💪 Opened PR [#183](https://github.com/skleinjung/shift/pull/183) in [skleinjung/shift](https://github.com/skleinjung/shift)
-10. ❗️ Closed issue [#165](https://github.com/skleinjung/shift/issues/165) in [skleinjung/shift](https://github.com/skleinjung/shift)
+6. 🔥 Pushed to skleinjung/shift
+7. 🔥 Pushed to skleinjung/shift
+8. 🔥 Pushed to skleinjung/shift
+9. 💪 Opened PR [#185](https://github.com/skleinjung/shift/pull/185) in [skleinjung/shift](https://github.com/skleinjung/shift)
+10. 💪 Opened PR [#184](https://github.com/skleinjung/shift/pull/184) in [skleinjung/shift](https://github.com/skleinjung/shift)
 <!--END_SECTION:activity-->
