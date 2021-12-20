@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to thrashplay/slash-racer
-2. 💪 Opened PR [#5](https://github.com/thrashplay/slash-racer/pull/5) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-3. 💪 Opened PR [#4](https://github.com/thrashplay/slash-racer/pull/4) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-4. 💪 Opened PR [#3](https://github.com/thrashplay/slash-racer/pull/3) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-5. 💪 Opened PR [#2](https://github.com/thrashplay/slash-racer/pull/2) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-6. 🔥 Pushed to thrashplay/slash-racer
-7. 💪 Opened PR [#1](https://github.com/thrashplay/slash-racer/pull/1) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+2. 💪 Opened PR [#6](https://github.com/thrashplay/slash-racer/pull/6) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+3. 🔥 Pushed to thrashplay/slash-racer
+4. 💪 Opened PR [#5](https://github.com/thrashplay/slash-racer/pull/5) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+5. 💪 Opened PR [#4](https://github.com/thrashplay/slash-racer/pull/4) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+6. 💪 Opened PR [#3](https://github.com/thrashplay/slash-racer/pull/3) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+7. 💪 Opened PR [#2](https://github.com/thrashplay/slash-racer/pull/2) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
 8. 🔥 Pushed to thrashplay/slash-racer
-9. 🔥 Pushed to thrashplay/slash-racer
+9. 💪 Opened PR [#1](https://github.com/thrashplay/slash-racer/pull/1) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
 10. 🔥 Pushed to thrashplay/slash-racer
 <!--END_SECTION:activity-->
