@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/thrashplay/slash-racer/pull/9) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-2. 💪 Opened PR [#8](https://github.com/thrashplay/slash-racer/pull/8) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-3. 💪 Opened PR [#7](https://github.com/thrashplay/slash-racer/pull/7) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-4. 🔥 Pushed to thrashplay/slash-racer
+1. 💪 Opened PR [#10](https://github.com/thrashplay/slash-racer/pull/10) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+2. 💪 Opened PR [#9](https://github.com/thrashplay/slash-racer/pull/9) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+3. 💪 Opened PR [#8](https://github.com/thrashplay/slash-racer/pull/8) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+4. 💪 Opened PR [#7](https://github.com/thrashplay/slash-racer/pull/7) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
 5. 🔥 Pushed to thrashplay/slash-racer
-6. 💪 Opened PR [#6](https://github.com/thrashplay/slash-racer/pull/6) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-7. 🔥 Pushed to thrashplay/slash-racer
-8. 💪 Opened PR [#5](https://github.com/thrashplay/slash-racer/pull/5) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-9. 💪 Opened PR [#4](https://github.com/thrashplay/slash-racer/pull/4) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
-10. 💪 Opened PR [#3](https://github.com/thrashplay/slash-racer/pull/3) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+6. 🔥 Pushed to thrashplay/slash-racer
+7. 💪 Opened PR [#6](https://github.com/thrashplay/slash-racer/pull/6) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+8. 🔥 Pushed to thrashplay/slash-racer
+9. 💪 Opened PR [#5](https://github.com/thrashplay/slash-racer/pull/5) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
+10. 💪 Opened PR [#4](https://github.com/thrashplay/slash-racer/pull/4) in [thrashplay/slash-racer](https://github.com/thrashplay/slash-racer)
 <!--END_SECTION:activity-->
