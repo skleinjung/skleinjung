@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/thrashplay/high-roller/pull/10) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-2. ❌ Closed PR [#9](https://github.com/thrashplay/high-roller/pull/9) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-3. 💪 Opened PR [#9](https://github.com/thrashplay/high-roller/pull/9) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-4. 💪 Opened PR [#8](https://github.com/thrashplay/high-roller/pull/8) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-5. ❗️ Opened issue [#7](https://github.com/thrashplay/high-roller/issues/7) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-6. ❗️ Opened issue [#6](https://github.com/thrashplay/high-roller/issues/6) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-7. 💪 Opened PR [#5](https://github.com/thrashplay/high-roller/pull/5) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-8. ❗️ Opened issue [#4](https://github.com/thrashplay/high-roller/issues/4) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-9. 💪 Opened PR [#3](https://github.com/thrashplay/high-roller/pull/3) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-10. ❗️ Opened issue [#2](https://github.com/thrashplay/high-roller/issues/2) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+1. ❗️ Closed issue [#2](https://github.com/thrashplay/high-roller/issues/2) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+2. ❗️ Closed issue [#6](https://github.com/thrashplay/high-roller/issues/6) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+3. ❗️ Closed issue [#7](https://github.com/thrashplay/high-roller/issues/7) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+4. 💪 Opened PR [#11](https://github.com/thrashplay/high-roller/pull/11) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+5. 💪 Opened PR [#10](https://github.com/thrashplay/high-roller/pull/10) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+6. ❌ Closed PR [#9](https://github.com/thrashplay/high-roller/pull/9) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+7. 💪 Opened PR [#9](https://github.com/thrashplay/high-roller/pull/9) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+8. 💪 Opened PR [#8](https://github.com/thrashplay/high-roller/pull/8) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+9. ❗️ Opened issue [#7](https://github.com/thrashplay/high-roller/issues/7) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+10. ❗️ Opened issue [#6](https://github.com/thrashplay/high-roller/issues/6) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
 <!--END_SECTION:activity-->
