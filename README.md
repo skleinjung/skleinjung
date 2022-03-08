@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 4. 🔥 Pushed to skleinjung/ansible
 5. 🔥 Pushed to skleinjung/ansible
 6. 🔥 Pushed to skleinjung/ansible
-7. 💪 Opened PR [#18](https://github.com/thrashplay/high-roller/pull/18) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-8. 🔥 Pushed to thrashplay/high-roller
-9. 💪 Opened PR [#17](https://github.com/thrashplay/high-roller/pull/17) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
-10. 💪 Opened PR [#16](https://github.com/thrashplay/high-roller/pull/16) in [thrashplay/high-roller](https://github.com/thrashplay/high-roller)
+7. 🔥 Pushed to skleinjung/ansible
+8. 🔥 Pushed to skleinjung/ansible
+9. 🔥 Pushed to skleinjung/ansible
+10. 🔥 Pushed to skleinjung/ansible
 <!--END_SECTION:activity-->
